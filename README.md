@@ -120,7 +120,7 @@ NetworkProgramming7Week/
 
 [![Repo](https://img.shields.io/badge/Repository-interplanetary--network-181717?style=for-the-badge&logo=github)](https://github.com/Bigzzz0/interplanetary-network)
 
-![Interplanetary Network Topology](mywork/Interplanetary_Network.png)
+![Interplanetary Network Topology](Image/Interplanetary_Network.png)
 
 **Key Features:**
 
@@ -141,7 +141,7 @@ NetworkProgramming7Week/
 
 #### Getting Started with Cisco Packet Tracer
 
-![Certificate](image/certificate.png)
+![Certificate](Image/certificate.png)
 
 ---
 
@@ -149,7 +149,7 @@ NetworkProgramming7Week/
 
 คะแนนสอบจาก **Cisco Networking Academy** — CCNA: Introduction to Networks
 
-![Checkpoint Exam Scores](image/Checkpoint_Exam.png)
+![Checkpoint Exam Scores](Image/Checkpoint_Exam.png)
 
 ### Module Group Exams — Average 97% (582/600)
 
