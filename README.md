@@ -149,7 +149,7 @@ NetworkProgramming7Week/
 
 คะแนนสอบจาก **Cisco Networking Academy** — CCNA: Introduction to Networks
 
-![Checkpoint Exam Scores](image/Checkpoint%20Exam.png)
+![Checkpoint Exam Scores](image/Checkpoint_Exam.png)
 
 ### Module Group Exams — Average 97% (582/600)
 
