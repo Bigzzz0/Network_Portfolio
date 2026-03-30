@@ -141,7 +141,7 @@ NetworkProgramming7Week/
 
 #### Getting Started with Cisco Packet Tracer
 
-![Certificate](Image/certificate.png)
+![Certificate](Image/Certificate.png)
 
 ---
 
