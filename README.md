@@ -84,15 +84,15 @@ Lab reports จาก **Cisco Networking Academy** ฝึกปฏิบัต�
 
 | Week | Protocol | Topic | Key Concept | Notes |
 |:----:|:--------:|-------|-------------|:-----:|
-| 1 | TCP | TCP Client-Server | 3-Way Handshake, Blocking I/O | [📝](NetworkProgramming7Week/week01-tcp-client-server/what-i-learned-week01-tcp.md) |
-| 2 | UDP | UDP Unicast | Connectionless, Low-latency tradeoff | [📝](NetworkProgramming7Week/week02-udp-unicast/what-i-learned-week02-udp.md) |
-| 3 | UDP | Broadcast | One-to-many LAN messaging | [📝](NetworkProgramming7Week/week03-broadcast/what-i-learned-week03-broadcast.md) |
-| 4 | UDP | Multicast | IGMP, Group membership | [📝](NetworkProgramming7Week/week04-multicast/what-i-learned-week04-multicast.md) |
-| 5 | TCP/UDP | Peer-to-Peer | Decentralized, Symmetric roles | [📝](NetworkProgramming7Week/week05-p2p/what-i-learned-week05-p2p.md) |
-| 6 | Custom | Ad-Hoc (MANET) | Mobile networks, Probabilistic forwarding | [📝](NetworkProgramming7Week/week06-adhoc-manet/what-i-learned-week06-adhoc.md) |
-| 7 | DTN | Store-and-Forward | Message queuing, Delay-tolerant | [📝](NetworkProgramming7Week/week07-store-forward/what-i-learned-week07-store-forward.md) |
-| 8 | Custom | Opportunistic Routing | Probability-based path selection | [📝](NetworkProgramming7Week/week08-opportunistic/what-i-learned-week08-opportunistic.md) |
-| 9 | Custom | Bio-Inspired Routing | Ant Colony / Pheromone algorithm | [📝](NetworkProgramming7Week/week09-bio-inspired/what-i-learned-week09-bio.md) |
+| 1 | TCP | TCP Client-Server | 3-Way Handshake, Blocking I/O | [📝](NetworkProgramming9Week/week01-tcp-client-server/what-i-learned-week01-tcp.md) |
+| 2 | UDP | UDP Unicast | Connectionless, Low-latency tradeoff | [📝](NetworkProgramming9Week/week02-udp-unicast/what-i-learned-week02-udp.md) |
+| 3 | UDP | Broadcast | One-to-many LAN messaging | [📝](NetworkProgramming9Week/week03-broadcast/what-i-learned-week03-broadcast.md) |
+| 4 | UDP | Multicast | IGMP, Group membership | [📝](NetworkProgramming9Week/week04-multicast/what-i-learned-week04-multicast.md) |
+| 5 | TCP/UDP | Peer-to-Peer | Decentralized, Symmetric roles | [📝](NetworkProgramming9Week/week05-p2p/what-i-learned-week05-p2p.md) |
+| 6 | Custom | Ad-Hoc (MANET) | Mobile networks, Probabilistic forwarding | [📝](NetworkProgramming9Week/week06-adhoc-manet/what-i-learned-week06-adhoc.md) |
+| 7 | DTN | Store-and-Forward | Message queuing, Delay-tolerant | [📝](NetworkProgramming9Week/week07-store-forward/what-i-learned-week07-store-forward.md) |
+| 8 | Custom | Opportunistic Routing | Probability-based path selection | [📝](NetworkProgramming9Week/week08-opportunistic/what-i-learned-week08-opportunistic.md) |
+| 9 | Custom | Bio-Inspired Routing | Ant Colony / Pheromone algorithm | [📝](NetworkProgramming9Week/week09-bio-inspired/what-i-learned-week09-bio.md) |
 
 ### 📂 Repository Structure
 
