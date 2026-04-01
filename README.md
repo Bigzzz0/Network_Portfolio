@@ -1,14 +1,8 @@
 <div align="center">
 
-![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-00D9FF?style=flat-square&logoColor=white)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0047AB&height=220&section=header&text=Network%20Portfolio&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=fadeIn)
 
-# 🌐 Network Portfolio
-
-![](https://img.shields.io/badge/Computer_Networks_&_Network_Programming-0047AB?style=for-the-badge&logoColor=white)
-
-![](https://img.shields.io/badge/Khon_Kaen_University_·_2025-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white)
-
-![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-00D9FF?style=flat-square&logoColor=white)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🌐+Computer+Networks+%26+Network+Programming;🐍+Socket+Programming+with+Python;🪐+Interplanetary+Network+Simulation;🎓+Khon+Kaen+University+2025)
 
 <br/>
 
@@ -20,17 +14,16 @@
 
 <br/>
 
-![Labs](https://img.shields.io/badge/Labs_Completed-5-00C853?style=flat-square&logo=bookstack&logoColor=white&labelColor=1a1a2e)
-![Weeks](https://img.shields.io/badge/Programming_Weeks-9-2196F3?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
-![Exam](https://img.shields.io/badge/Final_Exam-98%2F100-FFD700?style=flat-square&logo=academia&logoColor=white&labelColor=1a1a2e)
-![Avg](https://img.shields.io/badge/Module_Average-97%25-00E5FF?style=flat-square&logo=graphql&logoColor=white&labelColor=1a1a2e)
-![Cert](https://img.shields.io/badge/Cisco_Certified-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1a2e)
+![Labs](https://img.shields.io/badge/Labs%20Completed-5-brightgreen?style=flat-square&logo=bookstack&logoColor=white)
+![Weeks](https://img.shields.io/badge/Programming%20Weeks-9-blue?style=flat-square&logo=python&logoColor=white)
+![Exam](https://img.shields.io/badge/Final%20Exam-98%2F100-gold?style=flat-square&logo=academia&logoColor=white)
+![Cert](https://img.shields.io/badge/Cisco%20Certified-✓-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 <br/>
 
 > 👤 **นายศิฆรินทร์ อุปจันทร์** &nbsp;·&nbsp; รหัส `673380292-5` &nbsp;·&nbsp; Section 01
 >
-> 📧 [sikarin.u@kkumail.com](mailto:sikarin.u@kkumail.com) &nbsp;·&nbsp; 💼 [github.com/Bigzzz0](https://github.com/Bigzzz0) &nbsp;·&nbsp; 🎓 [Khon Kaen University](https://www.kku.ac.th/)
+> 📧 [sikarin.u@kkumail.com](mailto:sikarin.u@kkumail.com) &nbsp;·&nbsp; 🎓 [Khon Kaen University](https://www.kku.ac.th/) &nbsp;·&nbsp; 💼 [github.com/Bigzzz0](https://github.com/Bigzzz0)
 
 </div>
 
@@ -44,24 +37,18 @@
 > ครอบคลุมตั้งแต่ทฤษฎีพื้นฐาน OSI/TCP-IP, การออกแบบเครือข่าย, ไปจนถึงการเขียนโปรแกรมเครือข่ายขั้นสูง
 > และจบด้วย Final Project จำลองระบบสื่อสารระหว่างดาวเคราะห์ 🪐
 
-| 🌐 Computer Networks | 💻 Network Programming |
-|:---------------------|:----------------------|
-| ├─ Network Fundamentals / OSI | ├─ TCP / UDP Socket Programming |
-| ├─ TCP/IP Protocol Suite | ├─ Broadcast & Multicast |
-| ├─ IP Addressing / Subnetting | ├─ Peer-to-Peer Networks |
-| ├─ Routing & Switching | ├─ Ad-Hoc & MANET |
-| └─ Network Security Basics | ├─ Store-and-Forward / DTN |
-| | └─ Bio-Inspired Routing |
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bigzzz0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&rank_icon=github&card_width=450)](https://github.com/Bigzzz0)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigzzz0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&card_width=450)](https://github.com/Bigzzz0)
-
-> 📌 *GitHub Stats cards render on GitHub.com — [View live →](https://github.com/Bigzzz0/Network_Portfolio)*
-
-</div>
+```
+╔══════════════════════════════╗    ╔══════════════════════════════════╗
+║    Computer Networks         ║    ║    Network Programming           ║
+╠══════════════════════════════╣    ╠══════════════════════════════════╣
+║ ├─ Network Fundamentals/OSI  ║    ║ ├─ TCP / UDP Socket Programming  ║
+║ ├─ TCP/IP Protocol Suite     ║    ║ ├─ Broadcast & Multicast         ║
+║ ├─ IP Addressing/Subnetting  ║    ║ ├─ Peer-to-Peer Networks         ║
+║ ├─ Routing & Switching       ║    ║ ├─ Ad-Hoc & MANET                ║
+║ └─ Network Security Basics   ║    ║ ├─ Store-and-Forward / DTN       ║
+╚══════════════════════════════╝    ║ └─ Bio-Inspired Routing          ║
+                                    ╚══════════════════════════════════╝
+```
 
 ---
 
@@ -111,38 +98,32 @@
 > โปรแกรมเครือข่ายทั้งหมดพัฒนาด้วย **Python** 🐍 ครอบคลุม 9 สัปดาห์
 > ตั้งแต่ TCP/UDP พื้นฐาน จนถึง Bio-Inspired Routing Algorithm ขั้นสูง
 
-| Week | Protocol | 📌 Topic | 💡 Key Concept | 📓 Notes |
-|:----:|:--------:|:---------|:---------------|:--------:|
+| Week | 🏷️ Protocol | 📌 Topic | 💡 Key Concept | 📓 Notes |
+|:----:|:-----------:|:---------|:---------------|:--------:|
 | `W01` | ![TCP](https://img.shields.io/badge/TCP-2196F3?style=flat-square) | TCP Client-Server | 3-Way Handshake, Blocking I/O | [📝](NetworkProgramming9Week/week01-tcp-client-server/what-i-learned-week01-tcp.md) |
 | `W02` | ![UDP](https://img.shields.io/badge/UDP-FF9800?style=flat-square) | UDP Unicast | Connectionless, Low-latency tradeoff | [📝](NetworkProgramming9Week/week02-udp-unicast/what-i-learned-week02-udp.md) |
 | `W03` | ![UDP](https://img.shields.io/badge/UDP-FF9800?style=flat-square) | Broadcast | One-to-many LAN messaging | [📝](NetworkProgramming9Week/week03-broadcast/what-i-learned-week03-broadcast.md) |
 | `W04` | ![UDP](https://img.shields.io/badge/UDP-FF9800?style=flat-square) | Multicast | IGMP, Group membership | [📝](NetworkProgramming9Week/week04-multicast/what-i-learned-week04-multicast.md) |
-| `W05` | ![P2P](https://img.shields.io/badge/TCP%2FUDP-9C27B0?style=flat-square) | Peer-to-Peer | Decentralized, Symmetric roles | [📝](NetworkProgramming9Week/week05-p2p/what-i-learned-week05-p2p.md) |
-| `W06` | ![MANET](https://img.shields.io/badge/MANET-607D8B?style=flat-square) | Ad-Hoc (MANET) | Mobile networks, Probabilistic forwarding | [📝](NetworkProgramming9Week/week06-adhoc-manet/what-i-learned-week06-adhoc.md) |
+| `W05` | ![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP-9C27B0?style=flat-square) | Peer-to-Peer | Decentralized, Symmetric roles | [📝](NetworkProgramming9Week/week05-p2p/what-i-learned-week05-p2p.md) |
+| `W06` | ![Custom](https://img.shields.io/badge/Custom-607D8B?style=flat-square) | Ad-Hoc (MANET) | Mobile networks, Probabilistic forwarding | [📝](NetworkProgramming9Week/week06-adhoc-manet/what-i-learned-week06-adhoc.md) |
 | `W07` | ![DTN](https://img.shields.io/badge/DTN-795548?style=flat-square) | Store-and-Forward | Message queuing, Delay-tolerant | [📝](NetworkProgramming9Week/week07-store-forward/what-i-learned-week07-store-forward.md) |
-| `W08` | ![OPP](https://img.shields.io/badge/OPP-607D8B?style=flat-square) | Opportunistic Routing | Probability-based path selection | [📝](NetworkProgramming9Week/week08-opportunistic/what-i-learned-week08-opportunistic.md) |
-| `W09` | ![BIO](https://img.shields.io/badge/BIO-4CAF50?style=flat-square) | Bio-Inspired Routing | Ant Colony / Pheromone algorithm | [📝](NetworkProgramming9Week/week09-bio-inspired/what-i-learned-week09-bio.md) |
+| `W08` | ![Custom](https://img.shields.io/badge/Custom-607D8B?style=flat-square) | Opportunistic Routing | Probability-based path selection | [📝](NetworkProgramming9Week/week08-opportunistic/what-i-learned-week08-opportunistic.md) |
+| `W09` | ![Custom](https://img.shields.io/badge/Custom-607D8B?style=flat-square) | Bio-Inspired Routing | Ant Colony / Pheromone algorithm | [📝](NetworkProgramming9Week/week09-bio-inspired/what-i-learned-week09-bio.md) |
 
 ### 📂 Repository Structure
 
 ```
 NetworkProgramming9Week/
-├── week01-tcp-client-server/    # 🔵 TCP Socket basics & 3-way handshake
-├── week02-udp-unicast/          # 🟠 UDP connectionless communication
-├── week03-broadcast/            # 🟠 LAN broadcasting (255.255.255.255)
-├── week04-multicast/            # 🟠 Group multicast with IGMP
-├── week05-p2p/                  # 🟣 Peer-to-peer file sharing
-├── week06-adhoc-manet/          # ⚫ Mobile Ad-Hoc Network simulation
-├── week07-store-forward/        # 🟤 Delay-Tolerant Networking (DTN)
-├── week08-opportunistic/        # ⚫ Opportunistic routing algorithm
-└── week09-bio-inspired/         # 🐜 Ant Colony Optimization routing
+├── week01-tcp-client-server/       # 🔵 TCP Socket basics & 3-way handshake
+├── week02-udp-unicast/             # 🟠 UDP connectionless communication
+├── week03-broadcast/               # 🟠 LAN broadcasting (255.255.255.255)
+├── week04-multicast/               # 🟠 Group multicast with IGMP
+├── week05-p2p/                     # 🟣 Peer-to-peer file sharing
+├── week06-adhoc-manet/             # ⚫ Mobile Ad-Hoc Network simulation
+├── week07-store-forward/           # 🟤 Delay-Tolerant Networking (DTN)
+├── week08-opportunistic/           # ⚫ Opportunistic routing algorithm
+└── week09-bio-inspired/            # 🐜 Ant Colony Optimization routing
 ```
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bigzzz0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=0047AB&point=00D9FF&area=true&area_color=0047AB)](https://github.com/Bigzzz0)
-
-</div>
 
 ---
 
@@ -152,7 +133,7 @@ NetworkProgramming9Week/
 
 ### 🪐 Interplanetary Network Simulation
 
-[![Repo](https://img.shields.io/badge/Repository-interplanetary--network-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bigzzz0/interplanetary-network)
+[![Repo](https://img.shields.io/badge/🔗%20Repository-interplanetary--network-181717?style=for-the-badge&logo=github)](https://github.com/Bigzzz0/interplanetary-network)
 &nbsp;
 [![Python](https://img.shields.io/badge/Built%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
@@ -175,10 +156,10 @@ NetworkProgramming9Week/
 
 **🛠️ Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Socket](https://img.shields.io/badge/Socket_API-00D9FF?style=for-the-badge&logoColor=white)
-![Threading](https://img.shields.io/badge/Threading-FF6B6B?style=for-the-badge&logoColor=white)
-![DTN](https://img.shields.io/badge/Custom_DTN_Protocol-9C27B0?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket_API-00D9FF?style=flat-square)
+![Threading](https://img.shields.io/badge/Threading-FF6B6B?style=flat-square)
+![DTN](https://img.shields.io/badge/Custom_DTN_Protocol-9C27B0?style=flat-square)
 
 ---
 
@@ -212,9 +193,8 @@ NetworkProgramming9Week/
 
 <div align="center">
 
-![Average](https://img.shields.io/badge/Average_Score-97%25-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a2e)
-&nbsp;&nbsp;
-![Total](https://img.shields.io/badge/Total_Score-582%20%2F%20600-00D9FF?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1a2e)
+![Average](https://img.shields.io/badge/Average%20Score-97%25-brightgreen?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total-582%20%2F%20600-00D9FF?style=for-the-badge)
 
 </div>
 
@@ -231,7 +211,7 @@ NetworkProgramming9Week/
 
 <div align="center">
 
-![Final](https://img.shields.io/badge/Final_Exam-98%20%2F%20100-FFD700?style=for-the-badge&logo=academia&logoColor=white&labelColor=1a1a2e)
+![Final](https://img.shields.io/badge/Final%20Exam-98%20%2F%20100-gold?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
@@ -253,15 +233,15 @@ NetworkProgramming9Week/
 | **Advanced Networking** | `MANET` `Store-and-Forward DTN` `Opportunistic Routing` `Bio-Inspired Algorithms` |
 | **Tools & Platforms** | `Wireshark` `Git & GitHub` `VS Code` `Python` `Cisco NetAcad` |
 
-### 📈 Proficiency Level
+### 📈 Skill Progress
 
-| Skill | Level | Progress |
-|:------|:-----:|:--------:|
-| TCP/UDP Socket Programming | `Advanced` | ![95%](https://img.shields.io/badge/95%25-95%25-2196F3?style=flat-square&labelColor=1a1a2e) |
-| Network Design (Cisco PT) | `Proficient` | ![80%](https://img.shields.io/badge/80%25-80%25-00C853?style=flat-square&labelColor=1a1a2e) |
-| VLAN & Routing | `Proficient` | ![80%](https://img.shields.io/badge/80%25-80%25-00C853?style=flat-square&labelColor=1a1a2e) |
-| Delay-Tolerant Networking | `Intermediate` | ![65%](https://img.shields.io/badge/65%25-65%25-FF9800?style=flat-square&labelColor=1a1a2e) |
-| Bio-Inspired Algorithms | `Intermediate` | ![60%](https://img.shields.io/badge/60%25-60%25-FF9800?style=flat-square&labelColor=1a1a2e) |
+```
+TCP/UDP Socket Programming  ████████████████████░  95%  Advanced
+Network Design (Cisco PT)   ████████████████░░░░░  80%  Proficient  
+VLAN & Routing              ████████████████░░░░░  80%  Proficient
+Delay-Tolerant Networking   █████████████░░░░░░░░  65%  Intermediate
+Bio-Inspired Algorithms     ████████████░░░░░░░░░  60%  Intermediate
+```
 
 ### 🌱 Soft Skills Developed
 
@@ -287,15 +267,7 @@ NetworkProgramming9Week/
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bigzzz0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://github.com/Bigzzz0)
-
-<br/>
-
-![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-6A0DAD?style=flat-square)
-
-![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0047AB?style=flat-square)
-
-![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-00D9FF?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:00D9FF&height=120&section=footer" />
 
 *Last Updated: April 2026 &nbsp;·&nbsp; Computer Networks & Network Programming &nbsp;·&nbsp; KKU*
 
